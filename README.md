@@ -66,6 +66,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Prakhar Tripathi [prakhar1234](https://github.com/prakhar1234)
 * Pranai Kumar [pranaikumar](http://github.com/pranaikumar)
 * Priyank Palod [priyankpalod](https://github.com/priyankpalod)
+* Rakesh Bal [rakeshbal99](https://github.com/rakeshbal99)
 * Rameshwar Bhaskaran [zorroblue](https://github.com/zorroblue)
 * Sanskar Agrawal [sanskar-sopho](https://github.com/sanskar-sopho)
 * Satyesh Mundra [satyeshmundra](https://github.com/satyeshmundra)
